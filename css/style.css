@@ -1,0 +1,43 @@
+div .head-two {
+	color: rgb(196, 79, 79);
+}
+
+[class*="block"] {
+	color: rgb(219, 162, 55);
+}
+
+.block-two span {
+	color: rgb(214, 211, 37);
+}
+.e {
+	color: rgb(255, 0, 51);
+}
+.o {
+	color: rgb(95, 209, 50);
+}
+.p {
+	color: rgb(39, 196, 196);
+}
+.b {
+	color: rgb(44, 130, 201);
+}
+.v {
+	color: rgb(48, 72, 204);
+}
+.g {
+	color: rgb(134, 52, 189);
+}
+.d {
+	color: rgb(196, 52, 188);
+}
+.level-three > p {
+	color: rgb(205, 50, 140);
+}
+
+#block-id {
+	color: rgb(128, 0, 0);
+}
+
+.footer {
+	color: rgb(5, 238, 255);
+}
